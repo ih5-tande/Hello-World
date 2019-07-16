@@ -1,4 +1,3 @@
-<script>
 
 (function(para) {
     window['sensorsDataAnalytic201505'] = para.name;
@@ -40,4 +39,3 @@
         // },
     }
 });
-</script>
